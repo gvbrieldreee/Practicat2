@@ -1,1 +1,5 @@
 Git es un sistema de control de versiones que permite gestionar cambios en el código de forma colaborativa. GitHub es una plataforma que aloja repositorios Git y facilita la colaboración entre desarrolladores mediante herramientas como pull requests y revisión de código.
+
+----------------------------------------------
+
+Modificación desde la rama de prueba
